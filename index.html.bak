@@ -9,8 +9,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/PortfollioIcon.png" rel="icon">
+  <link href="assets/img/PortfollioIcon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -342,7 +342,7 @@
                       <li>Speedrunning game which utilises acceleration based movement to allow for speedy movement around the levels</li>
                       <li>Players will be able to use magic to enhance their movement through the level and also destroy enemies along the way</li>
                       <li>Mana is based of the character movement, A slow player has less ability to cast magic when compared to a fast player</li>
-					  <li>Development is in very early stages, expect more comprehenci</li>
+					  <li>Development is in very early stages, expect more comprehencive updates soon!</li>
                   </ul>
               </div><!-- End Resume Item -->
 
