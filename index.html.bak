@@ -227,7 +227,7 @@
         <h2>Resume</h2>
        <div>
 	<h3>Connor's CV</h3>
-	<embed src="assets/GameDevCVPDF.pdf" width="800px" height="1500px" />
+	<embed src="assets/GameDevCVPDF.pdf" width="800px" height="800px" />
 	</div>
       </div><!-- End Section Title -->
 
@@ -333,6 +333,7 @@
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
               <div class="project-item">
+			  <img src="assets/img/MagquickTemporarySymbol.jpg" alt="" data-aos="fade-in" class="" width="250px" height="250px"/> 
                   <h4>Magquik: A Speedrunning Wizard Game!</h4>
                   <h5>2025 - In Progress</h5>
                   <p><em>Type: Group Project</em></p>
@@ -341,6 +342,7 @@
                       <li>Players will be able to use magic to enhance their movement through the level and also destroy enemies along the way</li>
                       <li>Mana is based of the character movement, A slow player has less ability to cast magic when compared to a fast player</li>
 					  <li>Development is in very early stages, expect more comprehencive updates soon!</li>
+					  <li>Our current logo above was designed by myself in photoshop </li>
                   </ul>
               </div><!-- End Resume Item -->
 
