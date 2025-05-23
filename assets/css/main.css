@@ -648,6 +648,16 @@ section,
   line-height: 0;
 }
 
+.about image {
+    position: absolute;
+    inset: 0;
+    display: block;
+    width: 20%;
+    height: 20%;
+    object-fit: scale-down;
+    z-index: 1;
+}
+
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/

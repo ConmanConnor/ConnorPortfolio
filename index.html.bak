@@ -94,7 +94,7 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="assets/img/my-profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/ProfilePic.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>Software Engineer / Game Programmer.</h2>
@@ -270,7 +270,7 @@
                   <h5>2024 - Present</h5>
                   <p><em>Team Plague </em></p>
                   <ul>
-                      <li>Working along side Industry developers and Stduents to create a product</li>
+                      <li>Working along side Industry developers and Students to create a product</li>
                       <li>Dedicated time into creating protyped mechanics to implement into a vertical slice </li>
                       <li>I continue to work on this project and will focus on player gameplay mechanic prototyping</li>
                   </ul>
