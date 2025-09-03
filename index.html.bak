@@ -167,14 +167,14 @@
             <div class="skills-item">
              <ul>
 				<li>Knowledge of programming languages such as C#, C++, Python and Html</li>
-				</div>
 				<li>Able to design mechanics and levels by adapting to project needs and requirements </li>
-				</div>
 				<li>Able to work well and communicate within a large team</li>
-				</div>
 				<li>Strong problem solving skills to debug code and design new solutions</li>
+				<li>Strong academic ability to learn new skills and grow</li>
+				<li>Great at creative thinking and brainstorming ideas</li>
+				<li>Able to write professional and concise documentation</li>
             </ul>
-            </div><!-- Edn Resume Item -->
+            </div><!-- Edn Skills Item -->
 
           </div>
  
@@ -206,9 +206,9 @@
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
               <h4>Computer Game Design and Programming BA(Hons)</h4>
-              <h5>2022 - present</h5>
+              <h5>2022 - 2025</h5>
               <p><em>Staffordshire University</em></p>
-              <p>I studied at Staffordshire University and I am currently finishing my degree within the third and final year, results are TBD</p>
+              <p>I studied at Staffordshire University and I am currently finishing my degree within the third and final year, results are 2:2</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
@@ -296,13 +296,31 @@
               <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
+			  
+			  <hr>
+
+
+              <div class="project-item">
+                  <h4>Crack-Man</h4>
+                  <h5>2025 - Present</h5>
+                  <p><em>Type: Personal Project</em></p>
+                  <ul>
+                      <li>Pac-man style Game with a comedic twist</li>
+					  <li>Players use their cash or points to buy special pellets which effect gameplay</li>
+					  <li>Levels have the ability to generate from a text file using special characters to identify spawn, enemies, walls etc, this way levels can be generated</li>
+					  <li>This game is currently an MVP (Minimal Viable Product) but is missing core fundemental mechanics at the moment</li>
+                  </ul>
+				<iframe width="866" height="488" src="https://www.youtube.com/embed/UKNg2uSYxwo" title="CrackMan MVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              </div><!-- Edn Resume Item -->
+			  
+			  
 			    <div class="project-item">
                   <h4>Catstronaut</h4>
                   <h5>2025 - 2025</h5>
                   <p><em>Type: University Group Project</em></p>
                   <ul>
                       <li>This project was lead by myself and 4 other individuals, I belogned to the tech team</li>
-                      <li>I developed manyh mechanics seen within the game and was in charge of managing the final build</li>
+                      <li>I developed many mechanics seen within the game and was in charge of managing the final build</li>
                       <li>This project is still in the works but is not priority, as I will respond to feedback and update the game in my free time</li>
                   </ul>
                  <iframe width="560" height="315" src="https://www.youtube.com/embed/w1QbVEJgYbk" title="Catstronaut Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -355,6 +373,7 @@
                   <iframe width="560" height="315" src="https://www.youtube.com/embed/Zpop3bkREnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div><!-- Edn Resume Item -->
 			  
+			  
 			  <hr>
 
               <div class="project-item">
@@ -398,7 +417,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h3>Address</h3>
-                  <p> Stoke-on-Trent, Engalnd</p>
+                  <p> Milford Haven, Pembrokshire, Wales</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -419,7 +438,7 @@
               </div><!-- End Info Item -->
 
 <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d153594.05676850732!2d-2.324204443087643!3d53.022032303252914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487a11520fae440d%3A0xf1cdcd2f02caee04!2sStoke-on-Trent!5e0!3m2!1sen!2suk!4v1736247698259!5m2!1sen!2suk"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19776.190870661605!2d-5.042697052098664!3d51.71430602901487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4869235254267849%3A0x28c043f80610c806!2sMilford%20Haven!5e0!3m2!1sen!2suk!4v1756942515498!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
     width="600" 
     height="450" 
     style="border:0; width: 100%; height: 270px;" 
@@ -427,6 +446,7 @@
     loading="lazy" 
     referrerpolicy="no-referrer-when-downgrade">
 </iframe>
+
 
       
 
