@@ -1211,7 +1211,50 @@ section,
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
+/*--------------------------------------------------------------
+# Portfolio Section
+--------------------------------------------------------------*/
+.project-item {
+  font-size: 0.9rem;        /* smaller, neater text */
+  line-height: 1.5;
+  margin-bottom: 2em;       /* spacing between projects */
+  padding: 1em;
+  border: 1px solid #ddd;   /* subtle border */
+  border-radius: 8px;
+  background: #fafafa;      /* light background */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
+.project-item h4 {
+  margin-bottom: 0.2em;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.project-item h5 {
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 0.95rem;
+  color: #777;
+}
+
+.project-item ul {
+  margin-top: 0.5em;
+  padding-left: 1.2em;
+}
+
+.project-item li {
+  margin-bottom: 0.3em;
+}
+
+.project-item iframe {
+  display: block;
+  margin: 0.8em auto;
+  max-width: 360px;   /* keeps video smaller */
+  height: 200px;      /* shorter height */
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
