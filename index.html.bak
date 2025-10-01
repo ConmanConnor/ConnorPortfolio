@@ -310,9 +310,15 @@
 					  <li>Levels have the ability to generate from a text file using special characters to identify spawn, enemies, walls etc, this way levels can be generated</li>
 					  <li>This game is currently an MVP (Minimal Viable Product) but is missing core fundemental mechanics at the moment</li>
                   </ul>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/UKNg2uSYxwo" title="CrackMan MVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				<iframe width="560" height="315"
+				src="https://www.youtube-nocookie.com/embed/UKNg2uSYxwo"
+				title="CrackMan MVP"
+				frameborder="0"
+				allow="autoplay; encrypted-media"
+				allowfullscreen>
+				</iframe>
               </div><!-- Edn Resume Item -->
-			  
+	
 			  
 			    <div class="project-item">
                   <h4>Catstronaut</h4>
@@ -324,9 +330,14 @@
 					  <li>Developed a Weapon class which dictated base weapon behaviour which designers used to create new weapons</li>
 					  <li>Used the Unreal tools available to create a basic mini map by utilising camera components to capture the characters location on the map</li>
 					  <li>Created data tables to manage creature walk speed, strength, meshes etc for easy creature design, it also regenrated creatures if values changed</li>
-					  <li>
                   </ul>
-                 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1QbVEJgYbk" title="Catstronaut Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="315"
+				src="https://www.youtube-nocookie.com/embed/w1QbVEJgYbk"
+				title="CrackMan MVP"
+				frameborder="0"
+				allow="autoplay; encrypted-media"
+				allowfullscreen>
+				</iframe>
 				 <ul>
 				 <li><a href="https://assassin20207.itch.io/catstronaught">Visit Catstronauts Itch Page Here!</a></li>
 				 </ul>
