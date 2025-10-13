@@ -623,39 +623,45 @@ section,
 --------------------------------------------------------------*/
 .about .content h2 {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 1.25rem; /* Scales better across devices */
+  margin-bottom: 1rem;
+  color: #333; /* Ensures readability */
 }
 
 .about .content ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .about .content ul li {
-  margin-bottom: 20px;
   display: flex;
   align-items: center;
+  margin-bottom: 1.25rem;
+  line-height: 1.5;
 }
 
 .about .content ul strong {
-  margin-right: 10px;
+  margin-right: 0.625rem;
+  font-weight: 600;
+  color: #222;
 }
 
 .about .content ul i {
-  font-size: 16px;
-  margin-right: 5px;
+  font-size: 1rem;
+  margin-right: 0.5rem;
   color: var(--accent-color);
-  line-height: 0;
+  vertical-align: middle;
 }
 
 .about image {
-    position: absolute;
-    inset: 0;
-    display: block;
-    width: 20%;
-    height: 20%;
-    object-fit: scale-down;
-    z-index: 1;
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 20%;
+  height: 20%;
+  object-fit: contain; /* More predictable than scale-down */
+  z-index: 1;
 }
 
 /*--------------------------------------------------------------
@@ -786,6 +792,24 @@ section,
   background: var(--background-color);
   border: 2px solid var(--accent-color);
 }
+/*--------------------------------------------------------------
+# Gallery Section
+--------------------------------------------------------------*/
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Section

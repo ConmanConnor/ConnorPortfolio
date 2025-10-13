@@ -99,16 +99,18 @@
           <div class="col-lg-8 content">
             <h2>Software Engineer / Game Programmer.</h2>
             <p class="fst-italic py-3">
-             Eager game programmer passionate about learning with 3 years of game development practice/experience whilst studying at Staffordshire University. 
-			 Seeking experience to expand my knowledge of programming by creating immersive and engaging experiences for my future employers. 
-			 Committed to learning new skills and utilising current ones to push the limits of what is possible and contribute to the repository of the gaming industry.
+         Eager and adaptable game programmer with 3 years of hands-on development experience across Unreal Engine, Unity, and Roblox, gained while studying at Staffordshire University. 
+		 I thrive on building immersive, interactive systems — from inventory logic and UI synchronisation to modular power-up mechanics — and I’m driven by a deep curiosity to understand how things work under the hood.
+		I’m seeking opportunities to expand my programming expertise by contributing to engaging player experiences and solving real-world development challenges. With a strong foundation in C++, C#, and Lua, and a commitment to ongoing learning, 
+		I aim to push the boundaries of gameplay systems and leave a lasting impact on the industry.
+
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>18 April 2004</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>TBD</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>2nd Division</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Employment:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -131,7 +133,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="stats-item">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Projects</strong> <span>which I have worked on or helped test</span></p>
             </div>
           </div><!-- End Stats Item -->
@@ -166,7 +168,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="skills-item">
              <ul>
-				<li>Knowledge of programming languages such as C#, C++, Python and Html</li>
+				<li>Knowledge of programming languages such as C#, C++, Python,Luau and Html</li>
 				<li>Able to design mechanics and levels by adapting to project needs and requirements </li>
 				<li>Able to work well and communicate within a large team</li>
 				<li>Strong problem solving skills to debug code and design new solutions</li>
@@ -297,6 +299,27 @@
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
 			  
+			  
+              <div class="project-item">
+                  <h4>Roblox RPG</h4>
+                  <h5>2025 - In Progress</h5>
+                  <p><em>Type: Group Project</em></p>
+                  <ul>
+                      <li>Modelled a Japanese theme village level including placing pre-made assets in appropriate positions to enhance the aesthetic </li>
+					  <li>Started programming an inventory system and object to store, object is pickupable but does not add to inventory yet</li>
+					  <li>Designed and programmed a health system and gave the player the ability to sprint</li>
+					  <li>Adapted to the roblox studio tools and used them to improve level design and programs </li>
+					  <li>Used community scripts within the project to add functionality, I debugged problems and modified code to create a more suitable script for the team</li>
+					  <li><a href="https://www.linkedin.com/posts/conport_blocktober-activity-7383490487875166209-R12X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJJE0IBG93FfkSrWB99vWbumOR6TrzBdc8">Demo video here!</a></li>
+					  <div class="gallery">
+					  <img src="assets/img/Roblox1.png" alt="Image 1">
+                      <img src="assets/img/Roblox2.png" alt="Image 2">
+					  <img src="assets/img/Roblox3.png" alt="Image 3">
+                      </div>
+
+                  </ul>
+              </div><!-- End Resume Item -->
+			  
 			  <hr>
 
 
@@ -311,13 +334,32 @@
 					  <li>This game is currently an MVP (Minimal Viable Product) but is missing core fundemental mechanics at the moment</li>
                   </ul>
 				<iframe width="560" height="315"
-				src="https://www.youtube-nocookie.com/embed/UKNg2uSYxwo"
+				src="https://www.youtube.com/embed/Ajbm86k01KE"
 				title="CrackMan MVP"
 				frameborder="0"
 				allow="autoplay; encrypted-media"
 				allowfullscreen>
 				</iframe>
+
               </div><!-- Edn Resume Item -->
+			  
+			      <div class="project-item">
+                  <h4>Hole in the Wall Multiplayer Prototype</h4>
+                  <h5>2025 - 2025</h5>
+                  <p><em>Type: Challenge Project</em></p>
+                  <ul>
+                      <li>First ever attempt at a multiplayer project implementing gameplay mechanics to influence competetive play</li>
+					  <li>Implemented object wave spawner to spawn obstacles players are required to avoid in order to score points</li>
+					  <li>Random starting locations to esnure players spawned seperately from each other (doesnt always work)</li>
+					  <li>Networking implementations to ensure client and host communication worked and sessions were synchronised</li>
+					  <li>Created managers which made obstacles harder to avoid over time</li>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2cYYHUsZkcA" 
+					title="Hole in the wall prototype" 
+					frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+					referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					 
+                  </ul>
+              </div><!-- End Resume Item -->
 	
 			  
 			    <div class="project-item">
@@ -329,10 +371,10 @@
                       <li>Developed a Creature class which dictated base creature behaviour which designers used to create new creatures</li>
 					  <li>Developed a Weapon class which dictated base weapon behaviour which designers used to create new weapons</li>
 					  <li>Used the Unreal tools available to create a basic mini map by utilising camera components to capture the characters location on the map</li>
-					  <li>Created data tables to manage creature walk speed, strength, meshes etc for easy creature design, it also regenrated creatures if values changed</li>
+					  <li>Created data tables to manage creature walk speed, strength, meshes etc for easy creature design, it also regenerated creatures if values changed</li>
                   </ul>
                 <iframe width="560" height="315"
-				src="https://www.youtube-nocookie.com/embed/w1QbVEJgYbk"
+				src="https://www.youtube.com/embed/w1QbVEJgYbk"
 				title="CrackMan MVP"
 				frameborder="0"
 				allow="autoplay; encrypted-media"
@@ -350,9 +392,11 @@
                   <h5>2024 - In Progress</h5>
                   <p><em>Type: Group Project</em></p>
                   <ul>
-                      <li>This project has no video currently as the game is still under heavy development</li>
-                      <li>So far the inventory system has been created and works as you would expect an inventory to functiuon</li>
+                      <li>Developed a complex inventory system with slot assignment which compares item size to slot availability and assignes items to correct slots</li>
+					  <li>All items retrieve their data including their mesh, size etc from a data table designers can use to replace or adjust within the game world</li>
+					  <li>Created a solution for a puzzle which required the validation of the rotation of dial hands to check the state of the puzzle, if complete it activates an elevator on overlap</li>
                       <li>Information about this project is restricted but more will be revealed as development continues, More updates Soon when permitted</li>
+					  <li><a href="https://www.linkedin.com/posts/conport_over-the-past-year-i-have-been-working-with-activity-7381029241523425280-dTnw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJJE0IBG93FfkSrWB99vWbumOR6TrzBdc8">Demo video here!</a></li>
                   </ul>
               </div><!-- End Resume Item -->
 			  
