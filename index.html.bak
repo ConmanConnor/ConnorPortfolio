@@ -310,6 +310,13 @@
 					  <li>Programmed animations for objects, player, environment and death animations</li>
 					  <li>Implemnted UI within the game scene and created hover animations for buttons</li>
 					  <li>Managed scrolling of background and main menu to animate menu and create a sense of movement</li>
+					  	<iframe width="560" height="315"
+						src="https://youtu.be/aQ_XwSIPYso"
+						title="CrackMan MVP"
+						frameborder="0"
+						allow="autoplay; encrypted-media"
+						allowfullscreen>
+						</iframe>
 					  <li><a href="https://assassin20207.itch.io/circuit-mayhem">Play our game here!</a></li>
 					  <div class="gallery">
                       <img src="assets/img/Picture2.png" alt="Image 2">
@@ -330,13 +337,6 @@
 					  <li>Designed and programmed a health system and gave the player the ability to sprint</li>
 					  <li>Adapted to the roblox studio tools and used them to improve level design and programs </li>
 					  <li>Used community scripts within the project to add functionality, I debugged problems and modified code to create a more suitable script for the team</li>
-					  	<iframe width="560" height="315"
-						src="https://youtu.be/aQ_XwSIPYso"
-						title="CrackMan MVP"
-						frameborder="0"
-						allow="autoplay; encrypted-media"
-						allowfullscreen>
-						</iframe>
 					  <li><a href="https://www.linkedin.com/posts/conport_blocktober-activity-7383490487875166209-R12X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJJE0IBG93FfkSrWB99vWbumOR6TrzBdc8">Demo video here!</a></li>
 					  <div class="gallery">
 					  <img src="assets/img/Roblox1.png" alt="Image 1">
