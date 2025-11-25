@@ -133,7 +133,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="stats-item">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Projects</strong> <span>which I have worked on or helped test</span></p>
             </div>
           </div><!-- End Stats Item -->
