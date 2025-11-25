@@ -175,6 +175,7 @@
 				<li>Strong academic ability to learn new skills and grow</li>
 				<li>Great at creative thinking and brainstorming ideas</li>
 				<li>Able to write professional and concise documentation</li>
+				<li>Capable of adapting to and learning new systems quickly</li>
             </ul>
             </div><!-- Edn Skills Item -->
 
@@ -299,17 +300,43 @@
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
 			  
+			     <div class="project-item">
+                  <h4>Mini Game Jam 198: Speed</h4>
+                  <h5>2025 - 2025</h5>
+                  <p><em>Type: Group Project</em></p>
+                  <ul>
+                      <li>Created a team of motivated individuals from different background to create a game within 72 hours</li>
+					  <li>Worked as a gameplay programmer, created systems for player movement, object spawner and points system</li>
+					  <li>Programmed animations for objects, player, environment and death animations</li>
+					  <li>Implemnted UI within the game scene and created hover animations for buttons</li>
+					  <li>Managed scrolling of background and main menu to animate menu and create a sense of movement</li>
+					  <li><a href="https://assassin20207.itch.io/circuit-mayhem">Play our game here!</a></li>
+					  <div class="gallery">
+                      <img src="assets/img/Picture2.png" alt="Image 2">
+					  <img src="assets/img/Picture3.png" alt="Image 3">
+                      </div>
+
+                  </ul>
+              </div><!-- End Resume Item -->
 			  
+			  <hr>
               <div class="project-item">
                   <h4>Roblox RPG</h4>
                   <h5>2025 - In Progress</h5>
                   <p><em>Type: Group Project</em></p>
                   <ul>
                       <li>Modelled a Japanese theme village level including placing pre-made assets in appropriate positions to enhance the aesthetic </li>
-					  <li>Started programming an inventory system and object to store, object is pickupable but does not add to inventory yet</li>
+					  <li>Started programming an inventory system and object to store, object is pickupable and adds to inventory</li>
 					  <li>Designed and programmed a health system and gave the player the ability to sprint</li>
 					  <li>Adapted to the roblox studio tools and used them to improve level design and programs </li>
 					  <li>Used community scripts within the project to add functionality, I debugged problems and modified code to create a more suitable script for the team</li>
+					  	<iframe width="560" height="315"
+						src="https://youtu.be/aQ_XwSIPYso"
+						title="CrackMan MVP"
+						frameborder="0"
+						allow="autoplay; encrypted-media"
+						allowfullscreen>
+						</iframe>
 					  <li><a href="https://www.linkedin.com/posts/conport_blocktober-activity-7383490487875166209-R12X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJJE0IBG93FfkSrWB99vWbumOR6TrzBdc8">Demo video here!</a></li>
 					  <div class="gallery">
 					  <img src="assets/img/Roblox1.png" alt="Image 1">
