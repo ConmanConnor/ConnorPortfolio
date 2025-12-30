@@ -99,8 +99,9 @@
           <div class="col-lg-8 content">
             <h2>Software Engineer / Game Programmer.</h2>
             <p class="fst-italic py-3">
-         Eager and adaptable game programmer with 3 years of hands-on development experience across Unreal Engine, Unity, and Roblox, gained while studying at Staffordshire University. 
-		 I thrive on building immersive, interactive systems — from inventory logic and UI synchronisation to modular power-up mechanics — and I’m driven by a deep curiosity to understand how things work under the hood.
+         Eager and adaptable game programmer with 4 years of hands-on development experience across Unreal Engine, Unity, and Roblox, gained while studying at Staffordshire University and  while participating in game jams. 
+		 I thrive on building immersive, interactive systems — from inventory logic and UI synchronisation to modular power-up mechanics — and I’m driven by a deep curiosity to understand how things work under the hood.I am able to learn and adapt to 
+		 new tools and engines within a small time-frame to achieve goals, I enjoy taking on tough tasks that drive my skills to their limits.
 		I’m seeking opportunities to expand my programming expertise by contributing to engaging player experiences and solving real-world development challenges. With a strong foundation in C++, C#, and Lua, and a commitment to ongoing learning, 
 		I aim to push the boundaries of gameplay systems and leave a lasting impact on the industry.
 
@@ -129,19 +130,11 @@
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item">
-              <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Projects</strong> <span>which I have worked on or helped test</span></p>
-            </div>
-          </div><!-- End Stats Item -->
-
+		
           <div class="col-lg-3 col-md-6">
             <div class="stats-item">
               <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Years of Practice</strong> <span>Working Along Side People and Self Study in and Out of Education</span></p>
             </div>
           </div><!-- End Stats Item -->
@@ -289,7 +282,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Portfolio</h2>
-        <p>Below are peices of work which I have developed both as part of a team and by myself: </p>
+        <p>Below are peices of work which I have developed both as part of a team and by myself, click on an image to find out more! </p>
       </div><!-- End Section Title -->
 
       <div class="container">
