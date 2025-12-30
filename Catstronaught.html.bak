@@ -78,31 +78,29 @@
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
 			  
-			     <div class="project-item">
-                  <h4>Mini Game Jam 198: Speed</h4>
+			      <div class="project-item">
+                  <h4>Catstronaut</h4>
                   <h5>2025 - 2025</h5>
-                  <p><em>Type: Group Project</em></p>
+                  <p><em>Type: University Group Project</em></p>
                   <ul>
-                      <li>Created a team of motivated individuals from different background to create a game within 72 hours</li>
-					  <li>Worked as a gameplay programmer, created systems for player movement, object spawner and points system</li>
-					  <li>Programmed animations for objects, player, environment and death animations</li>
-					  <li>Implemnted UI within the game scene and created hover animations for buttons</li>
-					  <li>Managed scrolling of background and main menu to animate menu and create a sense of movement</li>
-					  	<iframe width="560" height="315"
-						src="https://www.youtube.com/embed/aQ_XwSIPYso"
-						title="CrackMan MVP"
-						frameborder="0"
-						allow="autoplay; encrypted-media"
-						allowfullscreen>
-						</iframe>
-					  <li><a href="https://assassin20207.itch.io/circuit-mayhem">Play our game here!</a></li>
-					  <div class="gallery">
-                      <img src="assets/img/Picture2.png" alt="Image 2">
-					  <img src="assets/img/Picture3.png" alt="Image 3">
-                      </div>
-
+                      <li>This project was lead by myself and 4 other individuals, I belogned to the tech team</li>
+                      <li>Developed a Creature class which dictated base creature behaviour which designers used to create new creatures</li>
+					  <li>Developed a Weapon class which dictated base weapon behaviour which designers used to create new weapons</li>
+					  <li>Used the Unreal tools available to create a basic mini map by utilising camera components to capture the characters location on the map</li>
+					  <li>Created data tables to manage creature walk speed, strength, meshes etc for easy creature design, it also regenerated creatures if values changed</li>
                   </ul>
-              </div><!-- End Resume Item -->
+                <iframe width="560" height="315"
+				src="https://www.youtube.com/embed/w1QbVEJgYbk"
+				title="CrackMan MVP"
+				frameborder="0"
+				allow="autoplay; encrypted-media"
+				allowfullscreen>
+				</iframe>
+				<hr>
+				<p><b>Click me to play! ⬇️</b></p>
+				<li><a href="https://assassin20207.itch.io/checkmate-onslaught"><img src="assets/img/ClickMeMan.png" alt="Clickable Image" width="560" height="315"></a></li>
+				</hr>
+              </div><!-- Edn Resume Item -->
 
   </main>
 
