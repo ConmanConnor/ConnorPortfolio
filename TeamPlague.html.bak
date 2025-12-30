@@ -78,29 +78,19 @@
               </ul><!-- End Portfolio Filters -->
               <!--Do HTML Here-->
 			  
-			     <div class="project-item">
-                  <h4>Mini Game Jam 198: Speed</h4>
-                  <h5>2025 - 2025</h5>
+			      <div class="project-item">
+                  <h4>Team Plague Project</h4>
+                  <h5>2024 - Present</h5>
                   <p><em>Type: Group Project</em></p>
                   <ul>
-                      <li>Created a team of motivated individuals from different background to create a game within 72 hours</li>
-					  <li>Worked as a gameplay programmer, created systems for player movement, object spawner and points system</li>
-					  <li>Programmed animations for objects, player, environment and death animations</li>
-					  <li>Implemnted UI within the game scene and created hover animations for buttons</li>
-					  <li>Managed scrolling of background and main menu to animate menu and create a sense of movement</li>
-					  	<iframe width="560" height="315"
-						src="https://www.youtube.com/embed/aQ_XwSIPYso"
-						title="CrackMan MVP"
-						frameborder="0"
-						allow="autoplay; encrypted-media"
-						allowfullscreen>
-						</iframe>
-					  <li><a href="https://assassin20207.itch.io/circuit-mayhem">Play our game here!</a></li>
-					  <div class="gallery">
-                      <img src="assets/img/Picture2.png" alt="Image 2">
-					  <img src="assets/img/Picture3.png" alt="Image 3">
-                      </div>
-
+                      <li>Developed a complex inventory system with slot assignment which compares item size to slot availability and assignes items to correct slots</li>
+					  <li>All items retrieve their data including their mesh, size etc from a data table designers can use to replace or adjust within the game world</li>
+					  <li>Created a solution for a puzzle which required the validation of the rotation of dial hands to check the state of the puzzle, if complete it activates an elevator on overlap</li>
+                      <li>Information about this project is restricted but more will be revealed as development continues, More updates Soon when permitted</li>
+					  <hr>
+					  <p><b>Click me to play! ⬇️</b></p>
+					  <a href="https://www.linkedin.com/posts/conport_over-the-past-year-i-have-been-working-with-activity-7381029241523425280-dTnw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJJE0IBG93FfkSrWB99vWbumOR6TrzBdc8"><img src="assets/img/ClickMeMan.png" alt="Clickable Image" width="160" height="150"></a>
+					  </hr>
                   </ul>
               </div><!-- End Resume Item -->
 
